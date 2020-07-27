@@ -1,0 +1,39 @@
+.start_somewhere {
+  font-family: sans-serif;
+  font-size: calc(1em + 1vw + 1vh);
+  line-height: 1.33333;
+}
+
+.dance_with_me {
+  margin: 0;
+  padding: 0;
+  overflow-wrap: break-word;
+}
+
+.dance_with_me svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.loki { line-height: inherit; font-size: .666666rem }
+.noki { line-height: inherit; font-size: 1rem }
+.yoki { line-height: inherit; font-size: 2rem }
+.hiki { line-height: inherit; font-size: 2.666666rem }
+
+.nah {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breathe_for_you {
+  padding: calc(1rem + 1vh) calc(1rem + 1vw);
+}
+
+.mb1 { margin-bottom: 1rem }
+.mb2 { margin-bottom: 2rem }
+
+.squeeze {
+  max-width: 20em;
+}
