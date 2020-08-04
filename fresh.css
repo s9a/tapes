@@ -10,9 +10,9 @@
   overflow-wrap: break-word;
 }
 
-.dance_with_me svg {
+svg {
   max-width: 100%;
-  max-width: 100vh;
+  max-width: 80vmin;
   height: auto;
 }
 
