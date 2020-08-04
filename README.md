@@ -1,4 +1,4 @@
-# [peels](https://s9a.github.io/peels)
+# [tapes](https://s9a.github.io/tapes)
 
 sticker lab
 
