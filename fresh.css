@@ -16,6 +16,21 @@ svg {
   height: auto;
 }
 
+.solo :not(body) { display: none }
+.solo :target { display: block }
+.solo :target * { display: initial }
+.solo :target svg {
+  display: block;
+  max-width: 100%;
+  width: 100vw;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
 .loki { line-height: inherit; font-size: .666666rem }
 .noki { line-height: inherit; font-size: 1rem }
 .yoki { line-height: inherit; font-size: 2rem }
